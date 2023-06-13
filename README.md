@@ -13,10 +13,10 @@ La aplicación utiliza tecnologías web modernas, como React para el desarrollo 
 
 ## Capturas de Pantalla
 
-![Join chat](./../src/img/Join.jpeg)
+![Join](./../src/img/Join.jpeg)
 Ingreso al chat.
 
-![Captura de Pantalla 2](./../src/img/Chat.jpeg)
+![Chat](./../src/img/Chat.jpeg)
 Chat en uso con múltiples usuarios locales.
 
 ## Instalación
